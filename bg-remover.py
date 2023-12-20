@@ -1,4 +1,3 @@
-bg-removerimport cv2
 import numpy as np
 from tkinter import Tk, Label, Button, filedialog
 
