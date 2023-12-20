@@ -2,7 +2,7 @@
 
 The Image Background Remover Tool is a Python-based application that allows users to remove the background from images using various techniques. It provides a graphical user interface (GUI) for easy image upload, background removal, and saving of the edited image.
 
-![Title](title.jpg)
+![Title](img/title.jpg)
 
 ## Features
 
